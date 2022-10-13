@@ -15,4 +15,4 @@ Starlee Tech Android Lock Cracker (androidlockcracker) is a python script capabl
 
 # About the Author
 ## Ssettuba Lawrence 
-[GitHub-Handle](https://www.github.com/nanostarlee) and [Twitter-Handle](www.twitter.com/nanostarlee?t=CLj-Fh0LEpGlajTLLYqH7g&s=09)
+[GitHub-Handle](https://www.github.com/nanostarlee)
